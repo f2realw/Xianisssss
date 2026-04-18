@@ -159,3 +159,28 @@ font-style: italic;
  
  
      }
+
+.TN
+     { 
+
+    width: 30px;
+    position: relative;
+    top: -70px;
+    left: 1250px;
+    
+    
+
+
+     }
+.TB
+     { 
+
+    width: 33px;
+    position: relative;
+    top: -80px;
+    left: 0px;
+    
+    
+
+
+     }
