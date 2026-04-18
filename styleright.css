@@ -166,7 +166,7 @@ top: 0px;
 #namnDennis
 {
    position: relative;
-  right: -800px;
+  right: -900px;
  bottom: 430px;
  font-style: normal;
  font-size: 22px;
@@ -254,5 +254,32 @@ top: 0px;
    width: 350px;
    left: 650px;
    top: 10px;
+ 
+     }
+
+     #glum{
+   position: absolute;
+   width: 200px;
+   left: 50px;
+   top: 40px;
+ 
+     }
+
+     #karl
+     {
+   position: absolute;
+   width: 200px;
+   left: 800px;
+   top: 40px;
+ 
+     }
+
+
+     #penis
+       {
+   position: absolute;
+   width: 200px;
+   left: 850px;
+   top: 40px;
  
      }
