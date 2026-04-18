@@ -1,0 +1,50 @@
+body { 
+       
+           background-image: url('Images/LTT-background.webp');
+           background-size: cover;
+           background-position: center;
+           margin: 200px;
+           height: 100;
+           width: 100px;
+           opacity: 100%;
+             }
+
+.group2
+{ 
+  position: relative;
+  top: 70px;
+  left: 100px;
+
+             }
+
+p1{ 
+  font-family:Arial, Helvetica, sans-serif ;
+   font-size: 12px;
+   font-weight: bolder;
+   color: white;
+   white-space: nowrap;
+ 
+ 
+
+             }
+
+ .group3
+{ 
+  position: relative;
+  top: -30px;
+  left: -20px;
+
+             }
+
+p2{ 
+  font-family:Arial, Helvetica, sans-serif ;
+   font-size: 12px;
+   font-weight: bolder;
+   color: white;
+   white-space: nowrap;
+   position: relative;
+   left: -0px;
+   top: -5px;
+  
+
+             }
