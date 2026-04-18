@@ -11,15 +11,18 @@ body {
 
 .group2
 { 
-  position: relative;
-  top: 70px;
-  left: 100px;
+  position: absolute;
+  top: 250px;
+  left: -300px;
 
              }
 
 p1{ 
+  position: relative;
   font-family:Arial, Helvetica, sans-serif ;
    font-size: 12px;
+   top: 20px;
+   right: 50px;
    font-weight: bolder;
    color: white;
    white-space: nowrap;
@@ -45,6 +48,58 @@ p2{
    position: relative;
    left: -0px;
    top: -5px;
+  
+
+             }
+
+
+      .group4
+      { 
+  position: relative;
+  top: -100px;
+  left: 300px;
+  font-size: smaller;
+background-color: #f0f0f0;
+width: 300px;
+padding: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+height: 220px;
+border-radius: 2px;
+border: 2px solid;
+border-color: blue;
+             }
+
+
+
+    #popup
+    { 
+  position: relative;
+  top: 30px;
+  left: 00px;
+  font-size: 10px;
+
+             }
+
+  .group5  { 
+   position: relative;
+   top: -185px;
+   right: 10px;
+   width: 300px;
+background-color:blue;
+padding: 10px;
+box-shadow: 100%;
+-webkit-text-fill-color: #f0f0f0;
+font-weight: 1000px  ;
+
+
+
+}
+
+#x
+{ 
+  position: relative;
+  left: 180px;
+  background-color: red;
   
 
              }
